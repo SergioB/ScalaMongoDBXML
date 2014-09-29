@@ -1,0 +1,1 @@
+A simple Scala program which parses a massive xml files and puts results into MongodDB.
